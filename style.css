@@ -3,3 +3,24 @@ html {
     width: 100%;
   }
   
+  /* style.css */
+
+/* Make the background color grey */
+body {
+  background-color: grey;
+}
+
+/* Make all h3 elements green */
+h3 {
+  color: green;
+}
+
+/* Create a class to apply the color blue to h3 elements */
+.blue {
+  color: blue;
+}
+
+/* Make one h3 element red */
+.red {
+  color: red;
+}
